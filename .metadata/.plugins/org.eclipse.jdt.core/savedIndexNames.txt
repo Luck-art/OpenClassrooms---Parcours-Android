@@ -1,0 +1,7 @@
+INDEX VERSION 1.131+C:\Openclassrooms\Developpeur_android\Projet_2_android\.metadata\.plugins\org.eclipse.jdt.core
+2106674603.index
+4066322416.index
+3459937589.index
+1865797976.index
+4189578429.index
+1417919326.index
